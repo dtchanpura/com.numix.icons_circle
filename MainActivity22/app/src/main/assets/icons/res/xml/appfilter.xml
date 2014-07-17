@@ -218,10 +218,8 @@
 		<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="jackpal_androidterm"/>
 		<item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
 		<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-        <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
         <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
-        <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-        <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
+        <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera_2"/>
 		<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="com_android_vending"/>
 		<item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs_editors_sheets"/>
 		<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
@@ -390,7 +388,6 @@
 		<item component="ComponentInfo{com.cgollner.flashify/com.cgollner.flashify.MainActivity}" drawable="com_cgollner_flashify"/>
 		<item component="ComponentInfo{com.distilledmedia.adverts/com.distilledmedia.adverts.AdvertsSplashScreen}" drawable="com_distilledmedia_adverts"/>
 		<item component="ComponentInfo{com.distilledmedia.adverts/com.distilledmedia.adverts.SearchActivity}" drawable="com_distilledmedia_adverts"/>
-		<item component="ComponentInfo{net.cactii.flash2/net.cactii.flash2.MainActivity}" drawable="com_drinkdrankwasted_android_cvt"/>
 		<item component="ComponentInfo{com.drinkdrankwasted.android.cvt/com.drinkdrankwasted.android.cvt.ConverterActivity}" drawable="com_drinkdrankwasted_android_cvt"/>
 		<item component="ComponentInfo{com.drinkdrankwasted.android.cvt.pro/com.drinkdrankwasted.android.cvt.pro.ConverterActivity}" drawable="com_drinkdrankwasted_android_cvt"/>
 		<item component="ComponentInfo{com.eventbrite.attendee/com.eventbrite.attendee.activities.MainTabActivity}" drawable="com_eventbrite_attendee"/>
